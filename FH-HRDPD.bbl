@@ -1,0 +1,53 @@
+\begin{thebibliography}{1}
+
+\bibitem{torrieri2000mobile}
+Don Torrieri.
+\newblock Mobile frequency-hopping cdma systems.
+\newblock {\em IEEE Transactions on Communications}, 48(8):1318--1327, 2000.
+
+\bibitem{torrieri1997future}
+Don Torrieri.
+\newblock Future army mobile multiple-access communications.
+\newblock 2:650--654, 1997.
+
+\bibitem{liu2002blind}
+Xiangqian Liu, Nicholas~D Sidiropoulos, and Ananthram Swami.
+\newblock Blind high-resolution localization and tracking of multiple frequency
+  hopped signals.
+\newblock {\em IEEE Transactions on Signal Processing}, 50(4):889--901, 2002.
+
+\bibitem{liu2010ziv–zakai}
+Ning Liu, Zhengyuan Xu, and Brian~M Sadler.
+\newblock Ziv–zakai time-delay estimation bounds for frequency-hopping
+  waveforms under frequency-selective fading.
+\newblock {\em IEEE Transactions on Signal Processing}, 58(12):6400--6406,
+  2010.
+
+\bibitem{Weiss2004Direct}
+A.~J. Weiss.
+\newblock Direct position determination of narrowband radio frequency
+  transmitters.
+\newblock {\em IEEE Signal Processing Letters}, 11(5):513--516, 2004.
+
+\bibitem{Weiss2011Direct}
+Anthony~J. Weiss.
+\newblock Direct geolocation of wideband emitters based on delay and doppler.
+\newblock {\em IEEE Transactions on Signal Processing}, 59(6):2513--2521, 2011.
+
+\bibitem{ouyang2017direct}
+Xinxin Ouyang, Qun Wan, Jingmin Cao, Jinyu Xiong, and Qing He.
+\newblock Direct tdoa geolocation of multiple frequency-hopping emitters in
+  flat fading channels.
+\newblock {\em Iet Signal Processing}, 11(1):80--85, 2017.
+
+\bibitem{Bengio2013Deep}
+Yoshua Bengio and Aaron Courville.
+\newblock {\em Deep Learning of Representations}.
+\newblock 2013.
+
+\bibitem{Angelov2012Fundamentals}
+Plamen Angelov.
+\newblock {\em Fundamentals of Machine Learning and Pattern Recognition}.
+\newblock 2012.
+
+\end{thebibliography}
