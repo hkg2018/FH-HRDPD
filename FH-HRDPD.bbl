@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{torrieri2000mobile}
 Don Torrieri.
@@ -33,6 +33,12 @@ A.~J. Weiss.
 Anthony~J. Weiss.
 \newblock Direct geolocation of wideband emitters based on delay and doppler.
 \newblock {\em IEEE Transactions on Signal Processing}, 59(6):2513--2521, 2011.
+
+\bibitem{HighResolutionKG}
+K.~{Hao} and Q.~{Wan}.
+\newblock High resolution direct detection and position determination of
+  sources with intermittent emission.
+\newblock {\em IEEE Access}, 7:43428--43437, 2019.
 
 \bibitem{ouyang2017direct}
 Xinxin Ouyang, Qun Wan, Jingmin Cao, Jinyu Xiong, and Qing He.
